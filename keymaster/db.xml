@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Database>
+	<Item>
+		<Product>Windows 7</Product>
+		<Version>Pro</Version>
+		<Owner>Rosco</Owner>
+		<User>Windows 7 VM</User>
+		<Serial>Win7ProSerialNumber</Serial>
+		<Notes></Notes>
+	</Item>
+	<Item>
+		<Product>Windows 7</Product>
+		<Version>Ultimate</Version>
+		<Owner>Rosco</Owner>
+		<User>rosco-hp</User>
+		<Serial>Win7UltimateSerialNumber</Serial>
+		<Notes></Notes>
+	</Item>
+	<Item>
+		<Product>Office 2013</Product>
+		<Version>Pro</Version>
+		<Owner>Rosco</Owner>
+		<User>Cybertron</User>
+		<Serial>OfficeSerialNumber</Serial>
+		<Notes></Notes>
+	</Item>
+</Database>
